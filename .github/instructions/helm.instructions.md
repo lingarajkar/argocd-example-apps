@@ -1,5 +1,5 @@
 ---
-applyTo: "**/helm-*/**/*"
+applyTo: "**/helm-*/**/*, **/blue-green/**/*"
 ---
 
 ### Helm Chart Custom Review Rules
